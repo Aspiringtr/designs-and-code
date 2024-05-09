@@ -1,0 +1,13 @@
+.bg-hero {
+  @apply background: rgb(255, 246, 142);
+  background: linear-gradient(
+    129deg,
+    rgba(255, 246, 142, 1) 24%,
+    rgba(116, 127, 252, 1) 55%,
+    rgba(254, 134, 58, 1) 87%
+  );
+}
+
+nav {
+  @apply;
+}
