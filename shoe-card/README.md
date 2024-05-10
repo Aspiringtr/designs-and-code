@@ -36,3 +36,7 @@ Feel free to use this project as a template for your own designs or as a learnin
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please open an [issue](https://github.com/danielace1/designs-and-code/issues) or submit a [pull request](https://github.com/danielace1/designs-and-code/pulls).
+
+## Acknowledgements
+
+Thanks to [Chithambaranathan V](https://github.com/aspiringtr) for the original shoe card design created in Photoshop.
